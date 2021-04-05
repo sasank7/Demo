@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-This is my code3
-=======
-This is my code 3 fea1
->>>>>>> fea1
+
+This is my code 3
